@@ -1,0 +1,42 @@
+##### If you have 1500TB of confidential information which cannot be stored on a single system, which of the following concepts needs to be taken care of ?
+You have max 2 attempts to score in this question.
+Attempts left:
+2/2
+Options
+This problem has only one correct answer
+Only creating duplicate nodes
+Only replication of data
+Both a and b
+None
+
+##### Which of the following can cause low availability ?
+You have max 2 attempts to score in this question.
+Attempts left:
+2/2
+Options
+This problem has only one correct answer
+Hardware failure
+Software bugs
+Servers crashing due to high load of requests
+All of the above
+
+##### Which of the following statement is false?
+You have max 2 attempts to score in this question.
+Attempts left:
+2/2
+Options
+This problem has only one correct answer
+Monolithic systems have higher availability than distributed systems.
+Monolithic systems have lower availability than distributed systems.
+Distributed systems can increase the availability by using redundancy and replication.
+Single point of failure usually leads to low availability.
+
+##### How are fault tolerance and availability related?
+You have max 2 attempts to score in this question.
+Attempts left:
+2/2
+Options
+This problem has only one correct answer
+High fault tolerance leads to high availability
+High availability leads to high fault tolerance
+They are not related
